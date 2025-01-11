@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+# 📊 GitHub Stats:
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=patleishant&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patleishant&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+</div>
 <!--
 **patleishant/patleishant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
