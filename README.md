@@ -5,6 +5,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=patleishant&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patleishant&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/pravin435916/pravin435916/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/pravin435916/pravin435916/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/pravin435916/pravin435916/blob/output/github-snake.svg" />
+</picture>
 <!--
 **patleishant/patleishant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
